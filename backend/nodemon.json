@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "DB USER ACCESS NAME",
+        "DB_PASSWORD": "PW DB NAME",
+        "DB_NAME": "MONGO DB NAME",
+        "GOOGLE_API_KEY": "API GOOGLE MAPSs",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
